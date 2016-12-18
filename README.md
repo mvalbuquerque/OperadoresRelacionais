@@ -1,7 +1,3 @@
-# OperadoresRelacionais
-OperadoresRelacionais
-
-
 
 #Playground Operadores Relacionais
 [![Swift](https://img.shields.io/badge/swift-3-orange.svg?style=flat)](https://developer.apple.com/swift/) 
